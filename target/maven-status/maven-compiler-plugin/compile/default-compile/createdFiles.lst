@@ -1,0 +1,6 @@
+com/demospring/medicine/model/Medicine.class
+com/demospring/medicine/storage/MedicineStorage.class
+com/demospring/medicine/Service/MedicineService.class
+com/demospring/medicine/Service/MedicineServiceImpl.class
+com/demospring/medicine/controller/MedicineController.class
+com/demospring/medicine/MedicineApplication.class
