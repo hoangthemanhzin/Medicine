@@ -10,8 +10,15 @@
 + 薬の請求書の発行
 + 処方箋の計算
 
+![Screenshot from 2023-05-04 21-29-27](https://user-images.githubusercontent.com/77549345/236238774-85a70e5c-62b4-4db3-b01a-8734c4f9c541.png)
+
+![Screenshot from 2023-05-04 21-29-45](https://user-images.githubusercontent.com/77549345/236238905-c729a842-e595-448e-b5da-1bdd481ca120.png)
+
+
 - これは薬局向けの無料アプリです。
 - React JF を使用したので、インターフェースがユーザーフレンドリーになります。
 - これは私が自分で開発したプロジェクトであるため、合理的なオブジェクト指向設計により、フレームワークの使用、データベースへの迅速かつ効果的なアクセスと設計に習熟しています。
 
-https://kieblog.vn/wp-content/uploads/Create_Order_Saga.png
+
+
+
